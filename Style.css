@@ -1,0 +1,204 @@
+body{
+	background-color: #1C1C24;
+	background-image:100%: url(C:/lostark.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 100%;
+}
+body, html{
+	overflow-x: hidden;
+	width: 100%;
+}
+.f1{
+	margin-top:1600px;
+	background-color: black;
+	height:500px ;
+	width:100%	;
+}
+
+/*кнопки*/
+
+
+
+.b1{
+	position: absolute;
+	top: 88px;
+    left: 77px;
+	background: none;
+	height:74px ;
+	width:77px ;
+	border:0px;
+}
+.b2{
+	position: absolute;
+	top: 183px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b3{
+	position: absolute;
+	top: 183px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b4{
+	position: absolute;
+	top: 213px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b5{
+	position: absolute;
+	top: 243px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b6{
+	position: absolute;
+	top: 273px;
+	left: 19px;
+	background: none; 
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b7{
+	position: absolute;
+	top: 306px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b8{
+	position: absolute;
+	top: 338px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b9{
+	position: absolute;
+	top: 369px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b10{
+	position: absolute;
+	top: 399px;
+	left: 19px;
+	background: none;
+	height:30px ;
+	width:190px ;
+	border:0px;
+}
+.b11{
+	position: absolute;
+	top: 1820px;
+	left: 886px ;
+	background: none;
+	width:134px;
+	height:30px;
+	border:0px;
+}
+.b12{
+	position: absolute;
+	top: 1950px;
+	left: 886px ;
+	background: none;
+	width:130px;
+	height:30px;
+	border:0px;
+}
+.b13{
+	position: absolute;
+	top: 2082px;
+	left: 886px ;
+	background: none;
+	width:130px;
+	height:30px;
+	border:0px;
+}
+.b14{
+	position: absolute;
+	top: 270px;
+	left: 315px ;
+	background: none;
+	width:316px;
+	height:270px;
+	border:0px;
+}
+.b15{
+	position: absolute;
+	top: 270px;
+	left: 920px ;
+	background: none;
+	width:316px;
+	height:270px;
+	border:0px;
+}
+.b16{
+	position: absolute;
+	top: 540px;
+	left: 315px ;
+	background: none;
+	width:316px;
+	height:270px;
+	border:0px;
+}
+.b17{
+	position: absolute;
+	top: 540px;
+	left: 920px ;
+	background: none;
+	width:316px;
+	height:270px;
+	border:0px;
+}
+.b18{
+	position: absolute;
+	top: 280px;
+	left: 653px ;
+	background: none;
+	width:250px;
+	height:520px;
+	border:0px;
+}
+.b19{
+	position: absolute;
+	top: 304px;
+	left: 293px ;
+	background: none;
+	width:643px;
+	height:115px;
+	border:0px;
+}
+.b19{
+	position: absolute;
+	top: 304px;
+	left: 293px ;
+	background: none;
+	width:643px;
+	height:115px;
+	border:0px;
+}
+
+
